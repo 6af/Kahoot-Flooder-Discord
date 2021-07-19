@@ -2,7 +2,7 @@
 # Kahoot Flooder Bot
 
 So I made a bot to kahoot flood it is really messed up so Im going to throw this code out to github under an MIT License 
-How to setup 
+# How to setup 
  1. Install [NodeJS](https://nodejs.org/en/download/) (I Use LTS)
  2. Download the project Files From Github
  3. Open Up cmd in the directory you have the project files in and run npm i
