@@ -1,5 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/856254011438399538/866774676894384148/unknown.png)
-Kahoot Flooder Bot
+# Kahoot Flooder Bot
 
 So I made a bot to kahoot flood it is really messed up so Im going to throw this code out to github under an MIT License 
 How to setup 
